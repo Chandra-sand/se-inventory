@@ -1,0 +1,1 @@
+inventory.py:36:80: E501 line too long (89 > 79 characters)

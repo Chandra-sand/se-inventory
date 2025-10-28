@@ -1,0 +1,33 @@
+************* Module inventory
+inventory.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory.py:62:0: C0304: Final newline missing (missing-final-newline)
+inventory.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:8:0: C0103: Function name "addItem" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:8:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+inventory.py:13:16: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+inventory.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:15:0: C0103: Function name "removeItem" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:20:4: W0702: No exception type(s) specified (bare-except)
+inventory.py:23:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:23:0: C0103: Function name "getQty" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:26:0: C0103: Function name "loadData" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:27:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inventory.py:28:4: W0603: Using the global statement (global-statement)
+inventory.py:27:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+inventory.py:32:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:32:0: C0103: Function name "saveData" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:33:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inventory.py:33:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+inventory.py:37:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:37:0: C0103: Function name "printData" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:42:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:42:0: C0103: Function name "checkLowItems" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:49:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:60:4: W0123: Use of eval (eval-used)
+inventory.py:2:0: W0611: Unused import logging (unused-import)
+
+-----------------------------------
+Your code has been rated at 4.40/10
+

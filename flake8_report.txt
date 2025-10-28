@@ -1,0 +1,13 @@
+inventory.py:2:1: F401 'logging' imported but unused
+inventory.py:8:1: E302 expected 2 blank lines, found 1
+inventory.py:12:1: W293 blank line contains whitespace
+inventory.py:15:1: E302 expected 2 blank lines, found 1
+inventory.py:20:5: E722 do not use bare 'except'
+inventory.py:23:1: E302 expected 2 blank lines, found 1
+inventory.py:26:1: E302 expected 2 blank lines, found 1
+inventory.py:32:1: E302 expected 2 blank lines, found 1
+inventory.py:37:1: E302 expected 2 blank lines, found 1
+inventory.py:42:1: E302 expected 2 blank lines, found 1
+inventory.py:49:1: E302 expected 2 blank lines, found 1
+inventory.py:62:1: E305 expected 2 blank lines after class or function definition, found 1
+inventory.py:62:7: W292 no newline at end of file
